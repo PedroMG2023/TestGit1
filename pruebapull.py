@@ -5,3 +5,5 @@ print("Prueba para pull")
 #como estan muchachos
 
 #que jodes jeremy
+
+#Te imaginas comprarte una tablet

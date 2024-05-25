@@ -9,6 +9,8 @@ def main():
 
 #hola esta es una modificacion
 
+#hola esta es una modificacion para ver que pasa si dos personas actualizan un mismo archivo a la vez.
+
 #Modificacion Pedro1
 #Modificacion Pedro2
 main()

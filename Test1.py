@@ -1,6 +1,8 @@
 def sumar_numeros(num1, num2):
     return num1 + num2
 
+#Modificación Pedro 1
+
 def main():
     numero1 = 5
     numero2 = 10
@@ -11,6 +13,4 @@ def main():
 
 #hola esta es una modificacion para ver que pasa si dos personas actualizan un mismo archivo a la vez.
 
-#Modificacion Pedro1
-#Modificacion Pedro2
 main()
